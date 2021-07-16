@@ -1,0 +1,59 @@
+header {
+    background-color: rgb(104, 104, 230);
+    padding: 40px;
+    color: white;
+    font-size: 48pt;
+    font-family: monospace;
+}
+
+.nav_bar {
+    background-color: rgb(104, 104, 230);
+    padding:20px;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.nav_button {
+    background-color: rgb(104, 104, 230);
+    border: black;
+    margin: 20px;
+}
+
+.primary_navigation ul {
+    list-style-type: none;
+}
+
+.nav_tabs a {
+    font-size: 24pt;
+    color: white;
+    text-decoration: none;
+}
+
+.nav_tabs {
+    display: inline-block;
+}
+
+ a  a:hover, a:focus, a:active {
+    text-decoration: none;
+}
+
+#Disney_2018 img{
+    width: 33%;
+    height: auto;
+
+}
+
+h1 {
+    font-size: 48pt;
+}
+
+p {
+    font-size: 16pt;
+}
+
+ h2 {
+    Border-bottom: 2px;
+}
+
+
+
